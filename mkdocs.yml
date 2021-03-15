@@ -10,6 +10,9 @@ theme:
 extra:
   version:
     provider: mike
+    
+markdown_extensions:
+  - attr_list
 
 plugins:
     - search
