@@ -13,4 +13,5 @@ extra:
 
 plugins:
     - search
-    - pdf-export
+    - pdf-export:
+        combined: true
