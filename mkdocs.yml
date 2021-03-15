@@ -10,3 +10,7 @@ theme:
 extra:
   version:
     provider: mike
+
+plugins:
+    - search
+    - pdf-export
