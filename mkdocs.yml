@@ -1,0 +1,12 @@
+site_name: Optimo
+nav:
+    - Home: index.md
+    - სახლი: test.md
+
+theme:
+  language: ka
+  name: material
+      
+extra:
+  version:
+    provider: mike
